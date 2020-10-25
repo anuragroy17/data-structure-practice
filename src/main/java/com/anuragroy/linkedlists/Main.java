@@ -1,4 +1,4 @@
-package com.anuragroy.linkedlist;
+package com.anuragroy.linkedlists;
 
 import java.util.Arrays;
 
